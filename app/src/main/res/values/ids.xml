@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="stepssincereboot" type="id" />
+    <item name="tvLocation" type="id" />
+    <item name="btnShowLocation" type="id" />
+    <item name="start_location_streaming" type="id" />
+</resources>
